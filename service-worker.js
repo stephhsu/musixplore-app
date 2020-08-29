@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/musixplore-app/precache-manifest.2d60f31b64f4a1fc3b2f2a38cfea9842.js"
+  "/musixplore-app/precache-manifest.ec1cabd7bc84da434aad3f996df148ec.js"
 );
 
 self.addEventListener('message', (event) => {
