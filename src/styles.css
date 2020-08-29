@@ -28,6 +28,10 @@ h1 {
     color: #2b2b2b;
 }
 
+.musixplore-icon-link:link {
+    color: #2b2b2b;
+}
+
 h2 {
     font-family: 'Architects Daughter', cursive;
     color: #2b2b2b;
@@ -91,7 +95,8 @@ h3 {
 .songs-catergory, 
 .song-info-category, 
 .new-releases-category,
-.album-catergory {
+.album-catergory,
+.artist-category{
     margin-left: 20px;
     margin-right: 20px;
     margin-top: 15px;
@@ -103,7 +108,7 @@ h3 {
 .category {
     width: 100%;
     display: flex;
-    justify-content: space-between;
+    justify-content: start;
     align-items: flex-start;
     border-top: 2px solid #FFEE58;
     padding-top: 1.5rem;
