@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/musixplore-app/static/css/main.5c2ca443.chunk.css",
-    "main.js": "/musixplore-app/static/js/main.55cc6af8.chunk.js",
-    "main.js.map": "/musixplore-app/static/js/main.55cc6af8.chunk.js.map",
+    "main.js": "/musixplore-app/static/js/main.56a393db.chunk.js",
+    "main.js.map": "/musixplore-app/static/js/main.56a393db.chunk.js.map",
     "runtime-main.js": "/musixplore-app/static/js/runtime-main.48f8078d.js",
     "runtime-main.js.map": "/musixplore-app/static/js/runtime-main.48f8078d.js.map",
     "static/js/2.c34cdbc7.chunk.js": "/musixplore-app/static/js/2.c34cdbc7.chunk.js",
     "static/js/2.c34cdbc7.chunk.js.map": "/musixplore-app/static/js/2.c34cdbc7.chunk.js.map",
     "index.html": "/musixplore-app/index.html",
-    "precache-manifest.ec1cabd7bc84da434aad3f996df148ec.js": "/musixplore-app/precache-manifest.ec1cabd7bc84da434aad3f996df148ec.js",
+    "precache-manifest.6d2b0fe4f5822b4971fe7154d3d2ab8e.js": "/musixplore-app/precache-manifest.6d2b0fe4f5822b4971fe7154d3d2ab8e.js",
     "service-worker.js": "/musixplore-app/service-worker.js",
     "static/css/main.5c2ca443.chunk.css.map": "/musixplore-app/static/css/main.5c2ca443.chunk.css.map",
     "static/js/2.c34cdbc7.chunk.js.LICENSE.txt": "/musixplore-app/static/js/2.c34cdbc7.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.48f8078d.js",
     "static/js/2.c34cdbc7.chunk.js",
     "static/css/main.5c2ca443.chunk.css",
-    "static/js/main.55cc6af8.chunk.js"
+    "static/js/main.56a393db.chunk.js"
   ]
 }
