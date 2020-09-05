@@ -24,7 +24,9 @@ class Songs extends React.Component {
             <div className="songs-catergory">
                 <div className="playlist-info">
                     <h3>{this.props.songsId.location.state.playlistName}</h3>
-                    <h3>Owner - {this.props.songsId.location.state.playlistOwner.display_name}</h3>
+                    <h3> Owner - 
+                        {this.props.songsId.location.state.playlistOwner === null ?
+                        " null" : this.props.songsId.location.state.playlistOwner.display_name}</h3>
                 </div>
                 <div className="songs">
                     {this.state.songs.map((song) =>
