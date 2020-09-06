@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a7678d24c1f25df4015ffbeca1c97aad",
+    "revision": "cc9fc00f1a347796be9ead5e0895178b",
     "url": "/musixplore-app/index.html"
   },
   {
-    "revision": "2f3fe3301bc0cd0a95ae",
+    "revision": "acf6e7146ff9c35c5117",
     "url": "/musixplore-app/static/css/main.5c2ca443.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/musixplore-app/static/js/2.c34cdbc7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2f3fe3301bc0cd0a95ae",
-    "url": "/musixplore-app/static/js/main.56a393db.chunk.js"
+    "revision": "acf6e7146ff9c35c5117",
+    "url": "/musixplore-app/static/js/main.4991fd14.chunk.js"
   },
   {
     "revision": "a4a9a1ec0dc6bb1720f8",
