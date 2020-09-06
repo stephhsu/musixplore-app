@@ -18,7 +18,7 @@ class Songs extends React.Component {
             this.setState({ songs: songsFromApi.items })
         });
     }
-    
+
     render() {
         return (
             <div className="songs-catergory">
@@ -29,7 +29,8 @@ class Songs extends React.Component {
                         " null" : this.props.songsId.location.state.playlistOwner.display_name}</h3>
                 </div>
                 <div className="songs">
-                    {this.state.songs.map((song) =>
+                    {this.state.songs.flatMap(song =>  
+                    song.track === null ? <div></div> :
                     <Link to={{pathname: process.env.PUBLIC_URL + "/songInfo",
                             state: {
                                     songId: song.track.id,
